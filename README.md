@@ -1,2 +1,2 @@
-# epineuro.github.com
+# epineuro.github.io
 Epineuro Website
